@@ -42,3 +42,8 @@ classDiagram
 
 ```
 
+# objetivo:
+
+
+api criada para alimentação de dados de  um sistema de conta bancaria.
+
